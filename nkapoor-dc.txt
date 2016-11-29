@@ -1,0 +1,7 @@
+For 20000 drachmas:
+At the rate of 40 drachmas per U.S. dollar,
+   you have 500.00 U.S dollars
+At the rate of 35 drachmas per U.S. dollar,
+   you have 571.43 U.S dollars
+
+ The difference is 71.43 U.S. dollars.
